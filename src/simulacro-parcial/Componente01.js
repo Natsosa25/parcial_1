@@ -8,7 +8,7 @@ const Componente01 = ({ navigation }) => {
 
     return (
         <View style={styles.container}>
-            <Text style={styles.text}>Bienvenidooo</Text>
+            <Text style={styles.text}>Bienvenidouuuuuuoo</Text>
             {/* Cambiamos TextInput por Input */}
             <Input
                 placeholder='Nombre'
